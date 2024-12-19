@@ -63,8 +63,11 @@ const Services = () => {
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui, nihil deleniti nobis voluptatibus dignissimos distinctio corporis, doloribus impedit suscipit eos ipsam dolorum. Quam repellat dolore possimus dolorum placeat eaque mollitia!</p>
                     <button>Go</button>
                 </motion.div>
+              
                <motion.div className="box" whileHover={{background:"lightgray",color:"black"}}>
+                   
                     <h2>Branding</h2>
+                    
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui, nihil deleniti nobis voluptatibus dignissimos distinctio corporis, doloribus impedit suscipit eos ipsam dolorum. Quam repellat dolore possimus dolorum placeat eaque mollitia!</p>
                     <button>Go</button>
                 </motion.div>
